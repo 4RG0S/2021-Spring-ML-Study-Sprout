@@ -21,7 +21,8 @@
   - 중간고사가 있으면 2주 휴뮤
   - 교육이 아니라 스터디라는 점 명심해 주시길 바랍니다
 
-
+-
+-
 - 0주차 : 타이타닉 생존자 예측 실습 기초
   - 해당 영상 3개를 모두 보면서 똑같이 따라하기 https://www.youtube.com/watch?v=NpB2hxrQ2Ck&list=PLrJaZ4ogQUHww5WsXIPOkWDQfkAapnayC
   - 4/2일까지 완료하시고 인증하시면 됩니다(인증 방법은 영상을 끝까지 따라하시면 자연스럽게 알 수 있습니다)

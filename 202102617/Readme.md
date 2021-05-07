@@ -23,4 +23,5 @@ Python을 처음 만지며 print를 통해 원하는 문장이 바로바로 출�
   
 (P.S.현재 github의 add file 등을 통해 파일을 upload하는 중인데 git bash를 통한 upload도 공부 후 진행해봐야겠다.)
   
-## 4주차 
+## 4주차 소감
+

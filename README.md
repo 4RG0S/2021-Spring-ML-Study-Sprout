@@ -83,15 +83,24 @@
   - CNN 알고리즘
   - OpenCV를 사용해서 MNIST 속 숫자 찾기
   - 사용한 소스코드 업로드
-- 3주차 리뷰(???)
-  - 3주차 리뷰 내용(5/16)
+- 3주차 리뷰(5/16)
   - 대부분 팀원이 깃허브에 업로드를 안했다...
+  - 열심히 해주세요
 -
-- 4주차 : 손글씨 이미지 분류하기 - CNN
+- 4주차 : Orange를 이용한 손글씨 이미지 분류
+  - https://www.youtube.com/watch?v=HNaaZCh2DWk
+  - https://www.youtube.com/watch?v=6SCb5hDmVYk&t=519s
+  - 위 두 영상을 보고 실습 따라하기
+  - 결과 캡쳐 및 깃허브에 업로드
+  - 리드미에 리뷰 작성
+- 4주차 리뷰(5/22) - 데브데이로 인해 온라인 모임은 하지 않겠습니다
+- 리뷰 내용 ~ 
+-
+- 5주차 : 손글씨 이미지 분류하기 - CNN
   - 파이토치 케라스 등 사용하기
   - https://dacon.io/competitions/open/235596/talkboard/400649?page=1&dtype=recent
   - https://dacon.io/competitions/open/235596/talkboard/400683?page=1&dtype=recent
   - 위 두 영상 참고하고 따라하기
   - 응용 : 0~9가 아닌 0 또는 1 만 분류하는 모델을 만들어보자
-- 4주차 리뷰(5/11)
+- 5주차 리뷰(5/29)
   - 리뷰 내용 ~
